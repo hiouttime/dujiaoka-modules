@@ -1,4 +1,4 @@
-# :tada: **ProductsNotice 商品通知** :tada:
+# :jigsaw: **ProductsNotice 商品通知**
 
 本插件适用于 [🦄独角数卡](https://github.com/assimon/dujiaoka)
 
@@ -13,4 +13,4 @@ ProductsNotice能让你在补货、上新等场景自动向指定频道发送通
 * 支持配置Telegram API代理
 ![](https://statict.cn/store/uploads/tinymce/images/c4ac32dc71c97586e3351f429ab827ed63f8ca46b906d.png)
 
-[buy]: https://buy.2m.pub/14
+[buy]: https://buy.2m.pub/buy/14
